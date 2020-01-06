@@ -2,7 +2,7 @@
 
 This is a random Programming Quote generator built using React. By pressing the button 'Get Quote' a third-party API is queried and then retrived the quote and respective author. In addition, it is possible to share each quote on Twitter by clicking the respective button.
 
-![Screenshot](screenshot.png)
+![Screenshot](/src/screenshot.png)
 
 ## The following packages were used in this project:
 
