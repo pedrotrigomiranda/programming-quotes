@@ -20,9 +20,9 @@ This is a random Programming Quote generator built using React. By pressing the 
 ### Getting the project running locally
 
 ```
-git clone
+git clone https://github.com/pedrotrigomiranda/programming-quotes.git
 
-cd
+cd programming-quotes
 
 npm run start
 
