@@ -33,6 +33,6 @@ browser.
 
 ## Authors
 
-* **Pedro Trigo Miranda** - *Initial work* - [PurpleBooth](https://github.com/pedrotrigomiranda)
+* **Pedro Trigo Miranda** (https://github.com/pedrotrigomiranda)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
