@@ -1,0 +1,29 @@
+/* Media Queries */
+@media only screen and (max-width: 1024px) {
+    .header {
+      align-self: center !important;
+    }
+  
+    .content {
+      width: 80vw !important;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .header {
+      font-size: 35px !important;
+    }
+  
+    .content {
+      width: 95vw !important;
+    }
+  
+  
+    .title {
+      font-size: 21px !important;
+    }
+  
+    .quote {
+      font-size: 18px !important;
+    }
+  }
