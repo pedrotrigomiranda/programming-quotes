@@ -26,6 +26,8 @@ git clone https://github.com/pedrotrigomiranda/programming-quotes.git
 
 cd programming-quotes
 
+npm install
+
 npm run start
 
 ```
