@@ -6,7 +6,7 @@ const styles = {
     display: 'flex',
     margin: 'auto',
     alignItems: 'center',
-    maxWidth: '37.7rem',
+    width: '37.7rem',
 
     card: {
       display: 'table',
